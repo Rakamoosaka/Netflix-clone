@@ -9,3 +9,5 @@ A modern, responsive **Netflix Clone** built with React that lets users authoriz
 - **Database**: MongoDB
 - **State Management**: React Hooks , Zustand
 - **Other**: Axios, dotenv
+
+![Homepage Screenshot](./public/netflix-hero.png)
